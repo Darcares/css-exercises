@@ -37,3 +37,13 @@ button {
 .button-container {
   padding: 8px;
 }
+
+.text{
+  width: 41px;
+}
+
+.text,
+.button {
+  display: block;
+  margin: 0 auto 0 auto;
+}
