@@ -49,6 +49,7 @@ ul {
 }
 
 .header,
-ul {
+ul,
+.right {
   display: flex;
 }
