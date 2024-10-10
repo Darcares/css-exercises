@@ -50,6 +50,7 @@ ul {
 
 .header,
 ul,
-.right {
+.right,
+.left {
   display: flex;
 }
