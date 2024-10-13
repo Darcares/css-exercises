@@ -18,6 +18,7 @@ img {
 .plants.list { /* My solution */
   display: flex;
   list-style: none;
+  justify-content: center;
 }
 
 li {
