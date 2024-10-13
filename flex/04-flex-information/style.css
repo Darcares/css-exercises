@@ -5,6 +5,9 @@ body {
 img {
   width: 100px;
   height: 100px;
+  /* My solution */
+  display: block;
+  margin: auto;
 }
 
 .title {
@@ -23,9 +26,10 @@ img {
   gap: 56px;
 }
 
-li {
+li { /* My solution */
   width: 200px;
 }
+
 /* do not edit this footer */
 .footer {
   position: fixed;
