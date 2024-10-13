@@ -16,9 +16,11 @@ img {
 }
 
 .plants.list { /* My solution */
+  padding: 0;
   display: flex;
   list-style: none;
   justify-content: center;
+  gap: 56px;
 }
 
 li {
