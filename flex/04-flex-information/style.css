@@ -26,6 +26,8 @@ img {
 li { /* My solution */
   display: flex;
   flex-flow: row wrap;
+  justify-content: center;
+  align-content: flex-start;
   width: 200px;
 }
 
