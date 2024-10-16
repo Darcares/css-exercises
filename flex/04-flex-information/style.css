@@ -24,7 +24,7 @@ img {
   display: flex;
   list-style: none;
   justify-content: center;
-  gap: 56px;
+  gap: 52px;
 }
 
 li { /* My solution */
