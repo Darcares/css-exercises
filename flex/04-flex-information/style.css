@@ -13,8 +13,12 @@ img {
   /* My solution */
   display: flex;
   justify-content: center;
+  margin: 0 0 32px 0;
 }
 
+.plants {
+  margin: 32px;
+}
 .plants.list { /* My solution */
   padding: 0;
   display: flex;
