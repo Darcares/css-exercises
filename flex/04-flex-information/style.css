@@ -5,9 +5,6 @@ body {
 img {
   width: 100px;
   height: 100px;
-  /* My solution */
-  display: block;
-  margin: auto;
 }
 
 .title {
@@ -27,6 +24,8 @@ img {
 }
 
 li { /* My solution */
+  display: flex;
+  flex-flow: row wrap;
   width: 200px;
 }
 
