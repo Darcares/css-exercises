@@ -33,6 +33,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  /* My solution */
+  flex: 0 0 auto; 
 }
 
 .close-button {
