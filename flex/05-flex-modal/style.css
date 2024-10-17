@@ -80,6 +80,7 @@ button.cancel {
   font-size: large;
   font-weight: bold;
   margin: 0 0 8px 0;
+  align-items: center;
 }
 
 .text {
