@@ -22,6 +22,8 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   /* My solution */
   display: flex;
+  gap: 16px;
+  padding: 16px;
 }
 
 .icon {
@@ -72,7 +74,7 @@ button.cancel {
   color: royalblue;
 }
 
-.header {
+.header { /* My solution */
   display: flex;
   justify-content: space-between;
   font-size: large;
