@@ -20,6 +20,8 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  /* My solution */
+  padding: 8px 16px;
 }
 
 input {
@@ -57,4 +59,5 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 16px;
 }
