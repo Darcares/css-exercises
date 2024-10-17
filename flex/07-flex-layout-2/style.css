@@ -34,6 +34,10 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+
+  /* My solution */
+  padding: 16px;
+  width: 300px; 
 }
 
 /* My solution */
@@ -44,4 +48,7 @@ body {
 
 .deck {
   display: flex;
+  flex-wrap: wrap;
+  padding: 48px;
+  gap: 32px;
 }
