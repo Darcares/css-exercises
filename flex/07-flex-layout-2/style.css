@@ -35,5 +35,6 @@ body {
 
 /* My solution */
 .main {
+  flex: auto;
   display: flex;
 }
