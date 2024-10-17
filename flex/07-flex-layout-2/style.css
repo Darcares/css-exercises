@@ -38,3 +38,7 @@ body {
   flex: auto;
   display: flex;
 }
+
+.deck {
+  display: flex;
+}
