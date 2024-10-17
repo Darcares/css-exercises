@@ -49,6 +49,10 @@ a {
   justify-content: space-between;
 }
 
+.footer  {
+  background-color: rgb(235, 235, 235);
+}
+
 .content {
   display: flex;
   flex-direction: column;
