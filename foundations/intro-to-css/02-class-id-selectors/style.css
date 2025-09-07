@@ -2,3 +2,8 @@
     background-color: rgb(233, 194, 201);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }/* Add CSS Styling */
+
+#second {
+    color: rgba(19, 19, 223, 0.968);
+    font-size: 36px;
+}
