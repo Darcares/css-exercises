@@ -21,7 +21,7 @@ If you use the tools in the Advanced Grid Properties lesson you should be able t
 - The container element has two columns Y
 - The container's second column is 4 times larger than the first column Y
 - The container element has a gap of 4px
-- The header element has two columns
+- The header element has two columns Y
 - The `ul` inside the menu element contains another grid
 - The `ul` inside the nav element contains another grid
 - The sidebar element has a gap of 50px
