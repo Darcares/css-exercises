@@ -53,6 +53,9 @@
 
 .nav {
   background-color: #C50208;
+
+  /* */
+  grid-column: 2 / 3;
 }
 
 .nav ul li {
@@ -62,6 +65,9 @@
 
 .article {
   background-color: #bccbde;
+
+  /* */
+  grid-column: 2 / 3;
 }
 
 .article p {
