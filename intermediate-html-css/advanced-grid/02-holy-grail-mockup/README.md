@@ -28,8 +28,8 @@ If you use the tools in the Advanced Grid Properties lesson you should be able t
 - The text elements in the sidebar are centered with grid Y
 - The article element should set grid columns using `repeat` along with the `auto-fit` and `minmax` properties Y
 - The article columns should have a minimum value of 250px and a maximum of 1fr unit Y
-- The article element has a gap of 15px
-- The card elements inside the article container have a height of 200px
+- The article element has a gap of 15px Y
+- The card elements inside the article container have a height of 200px Y
 - The header and footer span across both columns Y
 - The sidebar only spans across the first column Y
 - The nav and article elements only span across the second column Y
